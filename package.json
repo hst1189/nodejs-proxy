@@ -1,8 +1,10 @@
 {
-  "name": "nodews",
+  "name": "nodejs-ws",
   "version": "1.0.0",
-  "description": "Nodejs-server",
+  "description": "Node.js Server",
   "main": "index.js",
+  "author": "eooce",
+  "license": "GPL-3.0",
   "private": false,
   "scripts": {
     "start": "node index.js"
